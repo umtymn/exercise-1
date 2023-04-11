@@ -2,24 +2,29 @@ header {
     background-color: rgb(178,214,255);
     height: 10rem;
 }
+
 .feature {
     height: 12rem;
+    display: flex;
 }
 .one {
     background-color: rgb(245,206,141);
-    height:4rem;
+    width: 33.3%;
+   
 }
 .two{
     background-color: rgb(200,198,250);
-    height:4rem;
+    width: 33.3%;
+ 
 }
 .three {
     background-color: rgb(240,154,157);
-    height:4rem;
+    width: 33.3%;
+
 }
 .signup {
     background-color: rgb(214,232,254);
-    height: 3rem;
+    height: 5rem;
 }
 footer {
     background-color: rgb(234,237,240);
