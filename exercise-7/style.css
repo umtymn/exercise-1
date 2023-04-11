@@ -1,0 +1,27 @@
+header {
+    background-color: rgb(178,214,255);
+    height: 10rem;
+}
+.feature {
+    height: 12rem;
+}
+.one {
+    background-color: rgb(245,206,141);
+    height:4rem;
+}
+.two{
+    background-color: rgb(200,198,250);
+    height:4rem;
+}
+.three {
+    background-color: rgb(240,154,157);
+    height:4rem;
+}
+.signup {
+    background-color: rgb(214,232,254);
+    height: 3rem;
+}
+footer {
+    background-color: rgb(234,237,240);
+    height: 10rem;
+}
