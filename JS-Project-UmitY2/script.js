@@ -57,7 +57,6 @@ const myArr= [
         city:"Basel"
     },
        
-
 ]
 
 myArr.forEach((person)=>{
